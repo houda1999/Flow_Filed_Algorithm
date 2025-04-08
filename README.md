@@ -1,3 +1,3 @@
 Flow Field 
 
-![Alt text](run.png)
+![Alt text](Run.png)
